@@ -1,0 +1,2 @@
+rootProject.name='My Code Journey'
+include ':app'
